@@ -4,4 +4,5 @@ gunicorn
 Werkzeug==2.3.7
 Jinja2==3.1.2
 itsdangerous==2.1.2
+requests
 click==8.1.6
