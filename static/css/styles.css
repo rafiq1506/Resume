@@ -38,7 +38,7 @@ body {
 
 /* Header & Navigation */
 header {
-    background: linear-gradient(135deg, var(--primary) 0%, #4A4E69 100%);
+    background: linear-gradient(135deg, #647FBC, #F08787);
     color: white;
     padding: 2rem 0;
     position: relative;
@@ -329,11 +329,9 @@ main {
     text-decoration: underline;
 }
 
-
-
 /* Footer */
 footer {
-    background-color: var(--primary);
+    background: linear-gradient(135deg, #647FBC, #F08787);
     color: white;
     padding: 2rem 0;
     text-align: center;
@@ -342,7 +340,7 @@ footer {
 .last-updated {
     margin-top: 1rem;
     font-size: 0.9rem;
-    color: var(--secondary);
+    color: white;
 }
 
 /* Contact Form Styling */
